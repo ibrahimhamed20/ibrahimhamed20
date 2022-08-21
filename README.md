@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Hamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Tegarti App](https://tegarti.com/)
+- 🔭 I’m currently working on [stc](https://www.stc.com.sa/)
 
 - 🌱 I’m currently learning **Angular Universal && SSR**
 
 - 💬 Ask me about **Angular, RxJs, JavaScript, Typescript, and ES6+**
 
-- 📫 How to reach me **ibrahim.hamed@tegarti.com**
+- 📫 How to reach me **irhamed.c@stc.com.sa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
