@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Hamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [stc](https://www.stc.com.sa/)
+- 🔭 I’m currently working on [STC](https://www.stc.com.sa/)
 
 - 🌱 I’m currently learning **Angular Universal && SSR**
 
