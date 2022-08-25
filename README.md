@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, RxJs, JavaScript, Typescript, and ES6+**
 
-- 📫 How to reach me **irhamed.c@stc.com.sa**
+- 📫 How to reach me **ibrahimhamed2016@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
