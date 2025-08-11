@@ -95,7 +95,7 @@
 
 - **[Judicial Regulatory Support System](https://github.com/yourusername/judicial-regulatory-support)** – Legal process and compliance management tool for regulatory authorities.
 
-- **[ECR (POS, Cashier & Merchants System)](https://github.com/yourusername/ecr-pos-system)** – Built with **Nx**, covering POS terminals, cashier interfaces, merchant portals, and a robust admin panel.
+- **[ECR (Cashier & Merchants System)](https://github.com/yourusername/ecr-pos-system)** – Built with **Nx**, covering POS terminals, cashier interfaces, merchant portals, and a robust admin panel.
 
 ---
 
