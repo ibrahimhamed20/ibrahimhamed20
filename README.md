@@ -3,14 +3,15 @@
 <h3 align="center">Senior Front-End Developer | Angular & React Expert | JavaScript Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swe-ibrahimhamed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ibrahimhamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
-  <a href="mailto:ibrahimhamed2016@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ibrahimhamed.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8
+    " />
   </a>
   <a href="https://ibrahim-hamed.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-Portofolio-Information?style=flat&logo=About.me&logoColor=white" />
   </a>
 </p>
 
@@ -97,13 +98,14 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swe-ibrahimhamed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ibrahimhamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
-  <a href="mailto:ibrahimhamed2016@hotmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ibrahimhamed.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8
+    " />
   </a>
   <a href="https://ibrahim-hamed.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-Portofolio-Information?style=flat&logo=About.me&logoColor=white" />
   </a>
 </p>
