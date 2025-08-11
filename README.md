@@ -6,9 +6,8 @@
   <a href="https://www.linkedin.com/in/ibrahimhamed/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
-  <a href="mailto:ibrahimhamed.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8
-    " />
+  <a href="mailto:ibrahimhamed2016@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8" />
   </a>
   <a href="https://ibrahim-hamed.netlify.app/">
     <img src="https://img.shields.io/badge/Website-Portofolio-Information?style=flat&logo=About.me&logoColor=white" />
@@ -102,8 +101,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
   <a href="mailto:ibrahimhamed.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8
-    " />
+    <img src="https://img.shields.io/badge/Outlook-Email-informational?style=flat&logo=hotmail&logoColor=white&color=0D76A8" />
   </a>
   <a href="https://ibrahim-hamed.netlify.app/">
     <img src="https://img.shields.io/badge/Website-Portofolio-Information?style=flat&logo=About.me&logoColor=white" />
