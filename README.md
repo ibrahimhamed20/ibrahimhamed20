@@ -127,3 +127,8 @@
     <img src="https://img.shields.io/badge/Website-Portofolio-Information?style=flat&logo=About.me&logoColor=white" />
   </a>
 </p>
+
+<!-- FEATURED QUOTE -->
+💬 *"Building great products is not just about code — it's about solving real problems with creativity, precision, and empathy."*  
+
+---
