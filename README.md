@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Ibrahim Hamed</h1>
-<h3 align="center">Senior Front-End Developer | Angular & React Expert | JavaScript Specialist</h3>
+<h3 align="center">Staff Frontend Engineer | JavaScript Expert | Angular & React Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahimhamed/">
