@@ -3,7 +3,7 @@
 <h3 align="center">Staff Frontend Engineer | JavaScript Expert | Angular & React Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahimhamed/">
+  <a href="https://www.linkedin.com/in/swe-ibrahimhamed/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
   <a href="mailto:ibrahimhamed2016@hotmail.com">
@@ -122,7 +122,7 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahimhamed/">
+  <a href="https://www.linkedin.com/in/swe-ibrahimhamed/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
   </a>
   <a href="mailto:ibrahimhamed.dev@gmail.com">
