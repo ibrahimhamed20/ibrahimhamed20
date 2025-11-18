@@ -18,7 +18,7 @@
 
 ## 💡 About Me
 
-- 💼 Senior Front-End Developer delivering **enterprise-scale applications** for global and regional leaders.
+- 💼 Staff Frontend Engineer delivering **enterprise-scale applications** for global and regional leaders.
 - 📍 Based in **Riyadh, Saudi Arabia** — working remotely & onsite with international teams.
 - 🎯 Specialized in **Angular**, **React**, **JavaScript**, and **TypeScript**.
 - 🚀 Passionate about **scalable UI architecture**, **AI integration in frontend workflows**, and **performance optimization**.
