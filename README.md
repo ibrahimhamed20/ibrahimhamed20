@@ -85,28 +85,13 @@
 
 - **[Judicial Regulatory Support System](https://github.com/ibrahimhamed20/Judicial-Regulatory-Support-System)** – Regulatory case-tracking and workflow platform, migrated from **Angular 19+ to React 19+** — a study in migration strategy, state modelling, and component architecture across two frameworks.
 
-- **[VStock Management System](https://github.com/ibrahimhamed20/VStock-Management-System)** – Full-stack enterprise business management platform built on **NestJS** with a modern typed frontend, covering inventory, product setup, and operational workflows.
+- **[AI VStock Management System](https://github.com/ibrahimhamed20/VStock-Management-System)** – Full-stack enterprise business management platform built on **NestJS** with a modern typed frontend, covering inventory, product setup, and AI operational workflows.
 
 - **[ECR — Point of Sale Monorepo](https://github.com/ibrahimhamed20/ecr_fr)** – **Nx monorepo** housing three applications (admin, store, cashier) over a shared component and state layer.
 
 - **[Store Accounting System](https://github.com/ibrahimhamed20/store_accounting_system_ui)** – Store management interface with secure authentication, inventory tracking, and role-based access control.
 
 - **[React Portfolio](https://github.com/ibrahimhamed20/my-react-portfolio)** – Personal site built with React and modern tooling — [ibrahim-hamed.netlify.app](https://ibrahim-hamed.netlify.app/).
-
----
-
-## 📊 GitHub Stats & Achievements
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimhamed20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhamed20&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
 
 ---
 
